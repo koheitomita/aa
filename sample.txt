@@ -1,2 +1,3 @@
 git stash前
 git stash後
+メインの作業だよ
