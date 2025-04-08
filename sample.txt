@@ -1,3 +1,5 @@
 git stash前
 git stash後
 メインの作業だよ
+サブの作業だよ
+reset前の作業
